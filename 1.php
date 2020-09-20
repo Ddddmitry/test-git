@@ -3,5 +3,5 @@
 		return $a+$b;
 	}
 
-	echo msum(4,2);
+	echo msum(3,2);
 ?>
